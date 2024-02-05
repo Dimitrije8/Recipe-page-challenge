@@ -1,0 +1,43 @@
+@media screen and (max-width: 375px) {
+  .heading {
+    line-height: 1.05;
+    margin-bottom: 2rem;
+  }
+  .container {
+    padding: 3rem;
+  }
+  .heading-text {
+    font-size: 1.6rem;
+  }
+  .preparation-heading {
+    font-size: 1.6rem;
+    margin-bottom: 1.5rem;
+  }
+  .preparation {
+    padding: 3rem;
+  }
+  .preparation li {
+    font-size: 1.4rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    line-height: 1.5;
+  }
+  .ingredients-heading {
+    font-size: 2.6rem;
+  }
+  .ingredients li {
+    font-size: 1.4rem;
+  }
+  .ingredients-heading {
+    font-size: 2.8rem;
+  }
+  .instructions li {
+    font-size: 1.4rem;
+  }
+  .nutrition-heading {
+    font-size: 2.6rem;
+  }
+  .nutrition-text {
+    font-size: 1.4rem;
+  }
+}
